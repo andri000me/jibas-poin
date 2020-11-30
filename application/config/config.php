@@ -41,7 +41,7 @@ date_default_timezone_set("Asia/Jakarta");
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/poin';
+$config['base_url'] = 'http://192.168.100.101/poin';
 
 /*
 |--------------------------------------------------------------------------
